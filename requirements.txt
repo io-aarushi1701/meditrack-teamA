@@ -1,0 +1,8 @@
+fastapi==0.142.2
+uvicorn[standard]==0.54.0
+SQLAlchemy==2.1.3
+PyMySQL==1.2.3
+cryptography>=43
+pydantic==2.13.5
+python-dotenv==1.2.4
+PyJWT==2.15.1
